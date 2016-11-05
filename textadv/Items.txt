@@ -1,0 +1,11 @@
+bag
+pitcher
+nectar
+painting
+horn
+sword
+candle
+flower
+book
+string
+hour-glass
